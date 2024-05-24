@@ -53,8 +53,8 @@ __- 🧑🏻‍🎓 _I’m currently working on developing my skills as a Softwa
 ## 📔 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imaheshno1&show_icons=true&theme=radical" alt="imaheshno1's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaheshno1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&theme=radical" alt="imaheshno1's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
@@ -63,4 +63,9 @@ __- 🧑🏻‍🎓 _I’m currently working on developing my skills as a Softwa
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/imaheshno1/)
 [![LeetCode](https://img.shields.io/badge/-Leetcode-333333?style=flat&logo=LeetCode)](https://leetcode.com/u/imaheshno1/)
 [![Portfolio](https://img.shields.io/badge/-PortFolio-333333?style=flat&logo=google-chrome)](https://mw69.framer.media/)
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark" alt="Streak Stats" />
+    </a>
+</div>
 
