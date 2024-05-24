@@ -1,18 +1,18 @@
 # Welcome to My GitHub Profile! ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76116lpmh9v6u5uzlct3l8m28vrquwmyw9ys3uqvpnnw&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76116lpmh9v6u5uzlct3l8m28vrquwmyw9ys3uqvpnnw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" />
 </p>
 
 ## 🦾 About Me
 
 Hi! I'm **_Mahesh Subramanian_**, a passionate developer with a love for technology and innovation. I specialize in full-stack development, creating seamless and efficient applications. 
 
-- 🧑🏻‍🎓 I’m currently working on developing my skills as a Software Developer
-- 🧐 I’m currently learning **Next.js and GraphQL**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🖥️ How to reach me: [mahesh.expertprofessional.gmail.com](mailto:your.email@example.com)
-- 🤖 Fun fact: I enjoy solving complex algorithms and unsolved problems.
+__- 🧑🏻‍🎓 _I’m currently working on developing my skills as a Software Developer._
+- 🧐 _I’m currently learning **Next.js and GraphQL**_
+- 👯 _I’m looking to collaborate on **Open Source Projects**_
+- 🖥️ _How to reach me: [mahesh.expertprofessional.gmail.com](mailto:your.email@example.com)_
+- 🤖 _Fun fact: I enjoy solving complex algorithms and unsolved problems._
 
 ## 🔧 Technologies & Tools
 
@@ -62,5 +62,5 @@ Hi! I'm **_Mahesh Subramanian_**, a passionate developer with a love for technol
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/imaheshno1/)
 [![LeetCode](https://img.shields.io/badge/-Leetcode-333333?style=flat&logo=LeetCode)](https://leetcode.com/u/imaheshno1/)
-[![Portfolio](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome)](https://mw69.framer.media/)
+[![Portfolio](https://img.shields.io/badge/-PortFolio-333333?style=flat&logo=google-chrome)](https://mw69.framer.media/)
 
